@@ -32,7 +32,7 @@ cafeteria802/
 └── package.json         # Dependencias e información del proyecto
 ```
 
-## 👥 Roles de Usuario y Funcionalidades
+##  Roles de Usuario y Funcionalidades
 
 El sistema está dividido en tres flujos principales basados en el rol del usuario autenticado:
 
